@@ -1,4 +1,4 @@
 # Atul-demo
 this is my first Git Repository.
 <br>
-Author - Atul Bilgoji
+Author - Atul Bilgoji (Atul)
